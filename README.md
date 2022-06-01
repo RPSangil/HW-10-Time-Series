@@ -27,7 +27,9 @@ In the Worked_Code folder you will find:
 2. During the process of writing this code, a deprication that occured with statsmodels library caused issues with the ARMA model.[<sup>1</sup>](#reference-list)
 3. At this point, the Linear Regression Analysis of this assessment has not been completed.
 
-## Initial Time-Series Plotting
+## Time Series Analysis
+
+### Initial Time-Series Plotting
 
 <ins> CAD/JPY Exchange Rates </ins>
 
@@ -37,7 +39,7 @@ In the Worked_Code folder you will find:
 
 **Answer:** Ever since 1995, there looks to be a 4 year trend. This trend looks like the prices will go up and then drop again towards the end of the 4 year mark.
 
-## Decomposition Using Hodrick-Prescott Filter
+### Decomposition Using Hodrick-Prescott Filter
 
 <ins> CAD Price vs. Trend </ins>
 
@@ -51,7 +53,7 @@ In the Worked_Code folder you will find:
 
 ![Noise](https://github.com/RaelynSangil/HW-10-Time-Series/blob/a6b881ec7a2951b3c816e81172922e72f163a0ae/Worked_Code/Image/Noise_plot.png)
 
-## Forecasting Returns using an ARMA Model
+### Forecasting Returns using an ARMA Model
 
 Please refer to Important Notice 2. [<sup>IN2</sup>](#important-notice)
 
@@ -63,7 +65,7 @@ Please refer to Important Notice 2. [<sup>IN2</sup>](#important-notice)
 
 **Answer:** Based on the P-value for the second AR, the model is not a good fit since p > 0.05.
 
-## Forecasting the Exchange Rate Price using an ARIMA Model
+### Forecasting the Exchange Rate Price using an ARIMA Model
 
 <ins> 5 Day Futures Price Forecast </ins>
 
@@ -73,7 +75,7 @@ Please refer to Important Notice 2. [<sup>IN2</sup>](#important-notice)
 
 **Answer:** The Arima model forecasts that the Japanse Yes price will fall in the near term.
 
-## Volatility Forecasting with GARCH
+### Volatility Forecasting with GARCH
 
 <ins> 5 Day Forecast of Volatility </ins>
 
@@ -83,7 +85,7 @@ Please refer to Important Notice 2. [<sup>IN2</sup>](#important-notice)
 
 **Answer:** Volatility will increase.
 
-## Conclusions
+### Time Series Analysis Conclusions
 
 1. **Based on your time series analysis, would you buy the yen now?**
 
@@ -96,6 +98,25 @@ Please refer to Important Notice 2. [<sup>IN2</sup>](#important-notice)
 3. **Based on the model evaluation, would you feel confident in using these models for trading?**
 
 - No as p > 0.05
+
+## Linear Regression Analysis
+
+### Make predictions using the Testing Data
+
+<ins> First 20 Predictions </ins>
+
+![First 20 Predictions](https://github.com/RaelynSangil/HW-10-Time-Series/blob/69915cfde66e870bff5f4f103ff333eb3be58cf2/Worked_Code/Image/First_20_Predictions.PNG)
+
+### Performance
+
+- Out-of-Sample Root Mean Squared Error (RMSE): 0.6445805658569028
+- In-sample Root Mean Squared Error (RMSE): 0.841994632894117
+
+### Linear Regression Analysis Conclusions
+
+**Question:** Does this model perform better or worse on out-of-sample data as compared to in-sample data?
+
+**Answer:** The in-sample RMSE is higher than the out of sample RMSE, so the out of sample RMSE performed bette.
 
 # Reference List
 - [<sup>1</sup> https://www.statsmodels.org/v0.12.0/generated/statsmodels.tsa.arima_model.ARMA.html](https://www.statsmodels.org/v0.12.0/generated/statsmodels.tsa.arima_model.ARMA.html)
