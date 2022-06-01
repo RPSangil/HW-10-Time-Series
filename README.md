@@ -18,13 +18,15 @@ The following was provided at the beginging of the assessment and can be found i
 In the Worked_Code folder you will find:
 
 -<ins> Images Folder </ins> - Contains images of all the plots created in the ipynb files.
+
 -<ins> Time Series Analysis </ins> - The code I have written for this notebook.
+
 -<ins> Linear Regression Analysis </ins> - The code I have written for this notebook.
 
 ## Important Notice
 
 1. Please view this github in Day Theme - Light Default so that headers and axises on the plots show.
-2. During the process of writing this code, a deprication that occured with statsmodels library caused issues with the ARMA model.<sup>1</sup>](#reference-list)
+2. During the process of writing this code, a deprication that occured with statsmodels library caused issues with the ARMA model.[<sup>1</sup>](#reference-list)
 3. At this point, the Linear Regression Analysis of this assessment has not been completed.
 
 ## Initial Time-Series Plotting
@@ -53,7 +55,7 @@ In the Worked_Code folder you will find:
 
 ## Forecasting Returns using an ARMA Model
 
-Please refer to Important Notice 2. <sup>IN2</sup>](##important-notice)
+Please refer to Important Notice 2. [<sup>IN2</sup>](##important-notice)
 
 <ins> 5 Day Returns Forecast </ins>
 
