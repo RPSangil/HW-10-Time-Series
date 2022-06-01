@@ -11,9 +11,9 @@ In this assignment, I have tested the many time series tools that I have learnt 
 
 The following was provided at the beginging of the assessment and can be found in the Starter_code folder:
 
-- [Time-Series Starter Notebook](https://github.com/RaelynSangil/HW-10-Time-Series/blob/aefbb9641fa9d4316aeb79a4d5b76c5de2c3c78a/Starter_Code/time_series_analysis.ipynb)
-- [Linear Regression Starter Notebook](https://github.com/RaelynSangil/HW-10-Time-Series/blob/aefbb9641fa9d4316aeb79a4d5b76c5de2c3c78a/Starter_Code/regression_analysis.ipynb)
-- [CAD/JPY Data CSV File](https://github.com/RaelynSangil/HW-10-Time-Series/blob/aefbb9641fa9d4316aeb79a4d5b76c5de2c3c78a/Starter_Code/cad_jpy.csv)
+- [Time-Series Starter Notebook](https://github.com/RaelynSangil/HW-10-Time-Series/blob/a31665b343453e45e61d0c8e91965a7f480c834f/Starter_Code/time_series_analysis.ipynb)
+- [Linear Regression Starter Notebook](https://github.com/RaelynSangil/HW-10-Time-Series/blob/a31665b343453e45e61d0c8e91965a7f480c834f/Starter_Code/regression_analysis.ipynb)
+- [CAD/JPY Data CSV File](https://github.com/RaelynSangil/HW-10-Time-Series/blob/a31665b343453e45e61d0c8e91965a7f480c834f/Starter_Code/cad_jpy.csv)
 
 In the Worked_Code folder you will find:
 
