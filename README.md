@@ -19,7 +19,7 @@ In the Worked_Code folder you will find:
 
 - [Image Folder](https://github.com/RaelynSangil/HW-10-Time-Series/tree/main/Worked_Code/Image) - Contains images of all the plots created in the ipynb files.
 - [Time Series Analysis](https://github.com/RaelynSangil/HW-10-Time-Series/blob/05a1df497e87a15cbe516161b0563fa11628a30b/Worked_Code/regression_analysis.ipynb) - The code I have written for this notebook.
-- [Linear Regression Analysis](https://github.com/RaelynSangil/HW-10-Time-Series/blob/05a1df497e87a15cbe516161b0563fa11628a30b/Worked_Code/regression_analysis.ipynb) - This has currently not been filled in.
+- [Linear Regression Analysis](https://github.com/RaelynSangil/HW-10-Time-Series/blob/05a1df497e87a15cbe516161b0563fa11628a30b/Worked_Code/regression_analysis.ipynb) - The code I have written for this notebook.
 
 ## Important Notice
 
