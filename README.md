@@ -25,7 +25,6 @@ In the Worked_Code folder you will find:
 
 1. Please view this github in Day Theme - Light Default so that headers and axises on the plots show.
 2. During the process of writing this code, a deprication that occured with statsmodels library caused issues with the ARMA model.[<sup>1</sup>](#reference-list)
-3. At this point, the Linear Regression Analysis of this assessment has not been completed.
 
 ## Time Series Analysis
 
